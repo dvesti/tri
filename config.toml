@@ -14,10 +14,10 @@ title = "LoveIt"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
-defaultContentLanguage = "en" #"ru" #"en"
+defaultContentLanguage = "ru" #"en"
 # language code ["en", "zh-CN", "fr", "pl", ...]
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
-languageCode = "en"
+languageCode = "ru" #"en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 # 语言名称 ["English", "简体中文", "Français", "Polski", ...]
 languageName = "Russian" #"English"
@@ -52,7 +52,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
+  name = "Antuan"
   email = ""
   link = ""
 
@@ -842,7 +842,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/dvesti/tri"
         title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
@@ -895,7 +895,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "posts"
         pre = ""
         post = ""
-        name = "Posts1"
+        name = "Архив"
         url = "/posts/"
         title = ""
       [[languages.ru.menu.main]]
@@ -903,7 +903,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "tags"
         pre = ""
         post = ""
-        name = "Tags1"
+        name = "Тэги"
         url = "/tags/"
         title = ""
       [[languages.ru.menu.main]]
@@ -911,7 +911,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "categories"
         pre = ""
         post = ""
-        name = "Categories1"
+        name = "Категории"
         url = "/categories/"
         title = ""
       [[languages.ru.menu.main]]
@@ -919,7 +919,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "documentation"
         pre = ""
         post = ""
-        name = "Docs1"
+        name = "Доки"
         url = "/categories/documentation/"
         title = ""
       [[languages.ru.menu.main]]
@@ -927,7 +927,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "about"
         pre = ""
         post = ""
-        name = "About1"
+        name = "О сайте"
         url = "/about/"
         title = ""
       [[languages.ru.menu.main]]
@@ -936,22 +936,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/dvesti/tri"
         title = "GitHub"
     [languages.ru.params]
       [languages.ru.params.search]
         enable = true
-        type = "algolia"
+        type = "lunr" #"algolia"
         contentLength = 4000
         placeholder = ""
         maxResultLength = 10
         snippetLength = 30
         highlightTag = "em"
         absoluteURL = false
-        [languages.ru.params.search.algolia]
-          index = "index.ru"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+#        [languages.ru.params.search.algolia]
+#          index = "index.ru"
+#          appID = "PASDMWALPK"
+#          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
       [languages.ru.params.home]
         rss = 10
         [languages.ru.params.home.profile]
@@ -1030,7 +1030,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/dvesti/tri"
         title = "GitHub"
     [languages.zh-cn.params]
       [languages.zh-cn.params.search]

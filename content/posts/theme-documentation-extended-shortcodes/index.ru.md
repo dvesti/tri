@@ -1,5 +1,5 @@
 ---
-weight: 4
+#weight: 4
 title: "Thème Documentation - Extended Shortcodes"
 date: 2020-03-03T16:29:59+08:00
 lastmod: 2020-03-03T16:29:59+08:00

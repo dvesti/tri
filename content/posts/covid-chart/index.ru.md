@@ -22,6 +22,8 @@ resources:
   - name: "featured"
     src: "featured.jpg"
 lightgallery: true 
+#featuredImage: "featured.jpg"
+featuredImagePreview: "featured.jpg"
 ---
 
 Создали [**страницу**](/2021/covid-chart/) со статистикой по коронавирусу в Эстонии.

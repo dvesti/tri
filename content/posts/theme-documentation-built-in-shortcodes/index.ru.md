@@ -1,5 +1,5 @@
 ---
-weight: 3
+#weight: 3
 title: "Thème Documentation - Built-in Shortcodes"
 date: 2020-03-04T16:29:59+08:00
 lastmod: 2020-03-04T16:29:59+08:00
@@ -15,6 +15,8 @@ tags: ["shortcodes"]
 categories: ["documentation"]
 
 lightgallery: true
+featuredImage: "featured.jpg"
+featuredImagePreview: "featured-image.png"
 ---
 
 **Hugo** fournit plusieurs shortcodes intégrés pour la commodité de l'auteur et pour garder votre contenu de démarque propre.

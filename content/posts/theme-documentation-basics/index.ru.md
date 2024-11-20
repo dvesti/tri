@@ -1,5 +1,5 @@
 ---
-weight: 1
+# weight: 1
 title: "Thème Documentation - Concepts de Base"
 date: 2020-03-06T21:40:32+08:00
 lastmod: 2020-03-06T21:40:32+08:00

@@ -6,9 +6,9 @@ draft: false
 author: "Antuan"
 authorLink: ""
 description: ""
-resources:
-  - name: "featured"
-    src: "featured.jpg"
+#resources:
+#  - name: "featured"
+#    src: "featured.jpg"
 
 tags: ["Blog", "Comments"]
 categories: ["Academic"]
@@ -17,6 +17,8 @@ lightgallery: true
 
 toc:
   auto: false
+#featuredImage: "featured.jpg"
+featuredImagePreview: "featured.jpg"  
 ---
 
 Добавил возможность под каждой статьёй оставлять свой комментарий

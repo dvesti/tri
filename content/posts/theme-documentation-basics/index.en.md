@@ -1,5 +1,5 @@
 ---
-weight: 1
+# weight: 1
 title: "Theme Documentation - Basics"
 date: 2020-03-06T21:29:01+08:00
 lastmod: 2020-03-06T21:29:01+08:00
