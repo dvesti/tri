@@ -32,7 +32,7 @@ featuredImagePreview: "featured.jpg"
 ![Диаграмма2](https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-fritz.php?size=29&coord&style=alfa&fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1)
 **FEN:** `r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1`
 
-![Диаграмма3](http://www.euruchess.org/diagol/29/diagol.php?position=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1%20w%20-%20-%200%2015)
+![Диаграмма3](https://www.euruchess.org/diagol/29/diagol.php?position=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1%20w%20-%20-%200%2015)
 **FEN**: `r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1`
 ![Диаграмма3](https://www.dmitriev.ee/punbb/extensions/cd52/gendiag.php?size=29&coord&style=alfa&fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1)
 

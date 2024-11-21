@@ -22,7 +22,7 @@ resources:
   - name: "featured"
     src: "featured.jpg"
 lightgallery: true 
-#featuredImage: "featured.jpg"
+# featuredImage: "featured.jpg"
 featuredImagePreview: "featured.jpg"
 ---
 

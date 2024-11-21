@@ -10,7 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 # website title
 # 网站标题
-title = "LoveIt"
+title = "Diagonaal" # "LoveIt"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
@@ -132,10 +132,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       logo = ""
       # title name
       # 标题名称
-      name = "LoveIt"
+      name = "Diagonaal" #"LoveIt"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
+      pre = "<i class='fas fa-laptop-code fa-fw'></i>" #"<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
@@ -268,10 +268,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+      subtitle = "Antuan – настоящий..." #"A Clean, Elegant but Advanced Hugo Theme"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
-      typeit = true
+      typeit = false #true
       # whether to show social links
       # 是否显示社交账号
       social = true
@@ -288,18 +288,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = ""
+    GitHub = "dvesti"
     Linkedin = ""
-    Twitter = ""
+    Twitter = "Prorab"
     Instagram = ""
-    Facebook = ""
-    Telegram = ""
+    Facebook = "vladimir.dmitrijev.9"
+    Telegram = "estonija"
     Medium = ""
-    Gitlab = ""
+    Gitlab = "dvesti"
     Youtubelegacy = ""
     Youtubecustom = ""
     Youtubechannel = ""
-    Tumblr = ""
+    Tumblr = "balalaika-blog"
     Quora = ""
     Keybase = ""
     Pinterest = ""
@@ -310,14 +310,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Stackoverflow = ""
     Weibo = ""
     Odnoklassniki = ""
-    VK = ""
-    Flickr = ""
+    VK = "dmitrijev"
+    Flickr = "dvesti"
     Xing = ""
     Snapchat = ""
     Soundcloud = ""
     Spotify = ""
     Bandcamp = ""
-    Paypal = ""
+    Paypal = "dvesti"
     Fivehundredpx = ""
     Mix = ""
     Goodreads = ""
@@ -329,7 +329,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Steam = ""
     Twitch = ""
     Strava = ""
-    Skype = ""
+    Skype = "vladimir_from_tallinn"
     Whatsapp = ""
     Zhihu = ""
     Douban = ""
@@ -339,7 +339,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Deviantart = ""
     Behance = ""
     Dribbble = ""
-    Wordpress = ""
+    Wordpress = "dvesti"
     Vine = ""
     Googlescholar = ""
     Researchgate = ""
@@ -350,6 +350,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     XMPP = ""
     Matrix = ""
     Bilibili = ""
+	Blogger = "estonija"
     Discord = ""
     DiscordInvite = ""
     Lichess = ""
@@ -360,7 +361,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Plume = ""
     HackTheBox = ""
     RootMe= ""
-    Email = ""
+    Email = "one2one@hot.ee"
     RSS = ""
 
   # Page global config
@@ -466,21 +467,21 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false #true
       Reddit = false
-      VK = false
+      VK = true # false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false #true
       Instapaper = false
       Pocket = false
       Flipboard = false
-      Weibo = true
-      Blogger = false
+      Weibo = false #true
+      Blogger = true #false
       Baidu = false
       Odnoklassniki = false
       Evernote = false
-      Skype = false
+      Skype = true #false
       Trello = false
       Mix = false
     # Comment config
@@ -505,7 +506,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false #true
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
@@ -559,11 +560,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # utterances comment config (https://utteranc.es/)
       # utterances comment 评论系统设置 (https://utteranc.es/)
       [params.page.comment.utterances]
-        enable = false
+        enable = true #false
         # owner/repo
-        repo = ""
+        repo = "dvesti/tri"
         issueTerm = "pathname"
-        label = ""
+        label = "💬 comments"
         lightTheme = "github-light"
         darkTheme = "github-dark"
       # giscus comment config (https://giscus.app/)
@@ -790,7 +791,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # 多语言
 [languages]
   [languages.en]
-    weight = 1
+    weight = 2
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
@@ -922,8 +923,16 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "Доки"
         url = "/categories/documentation/"
         title = ""
-      [[languages.ru.menu.main]]
+	  [[languages.ru.menu.main]]
         weight = 5
+        identifier = "covid"
+        pre = ""
+        post = ""
+        name = "Корона"
+        url = "/covid-chart/"
+        title = ""	
+      [[languages.ru.menu.main]]
+        weight = 6
         identifier = "about"
         pre = ""
         post = ""
@@ -931,7 +940,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "/about/"
         title = ""
       [[languages.ru.menu.main]]
-        weight = 6
+        weight = 7
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
@@ -959,8 +968,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
-          typeit = true
+          subtitle = "Antuan - настоящий..." #"A Clean, Elegant but Advanced Hugo Theme"
+          typeit = false #true
           social = true
           disclaimer = ""
       [languages.ru.params.social]
@@ -979,7 +988,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         
 
   [languages.zh-cn]
-    weight = 2
+    weight = 3
     languageCode = "zh-CN"
     languageName = "简体中文"
     hasCJKLanguage = true

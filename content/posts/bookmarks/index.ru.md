@@ -22,7 +22,7 @@ math:
 lightgallery: false
 comment: false
 
-weight: 100
+# weight: 100
 ---
 
 All my [bookmarks](tags/bookmark). Also see [awesome list](https://awesome.re/) for all kinds of stuff.
