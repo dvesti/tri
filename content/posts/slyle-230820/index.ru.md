@@ -8,7 +8,7 @@ tags: ["font", "style", "quote"]
 categories: ["Blog"]
 toc: false
 description: "Code"
-images: [https://unsplash.com/photos/OqtafYT5kTw]
+#images: [https://unsplash.com/photos/OqtafYT5kTw]
 featuredImage: "featured.jpg"
 featuredImagePreview: "featured.jpg" 
 ---
