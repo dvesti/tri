@@ -3,6 +3,8 @@ title: "My Article Name – Тест"
 slug: "my-article-name"
 categories: ["Demo"]
 tags: ["blog"]
+author: "Antuan"
+authorLink: "https://diagonaal.ru/"
 date: 2020-05-19T16:31:46+03:00
 lastmod: 2020-05-19T16:31:46+03:00
 draft: false
@@ -23,18 +25,29 @@ featuredImage: ""
 featuredImagePreview: "featured.jpg"
 ---
 
-Проверка Шахматных Диаграмм
+Проверка Шахматных Диаграмм  
 <!--more-->
-![Диаграмма](https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&size=29&style=merida&fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15)
-**FEN**: `r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1`
+![Диаграмма](https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&size=29&style=merida&fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15)  
+**FEN**: `r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1`  
 
-Картинка
-![Диаграмма2](https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-fritz.php?size=29&coord&style=alfa&fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1)
-**FEN:** `r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1`
+Картинка  
+![Диаграмма2](https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-fritz.php?size=29&coord&style=alfa&fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1)  
+**FEN:** `r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1`  
 
-![Диаграмма3](https://www.euruchess.org/diagol/29/diagol.php?position=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1%20w%20-%20-%200%2015)
-**FEN**: `r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1`
-![Диаграмма3](https://www.dmitriev.ee/punbb/extensions/cd52/gendiag.php?size=29&coord&style=alfa&fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1)
+![Диаграмма3](https://www.euruchess.org/diagol/29/diagol.php?position=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1%20w%20-%20-%200%2015)  
+**FEN**: `r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1`  
+
+![Диаграмма4](https://www.dmitriev.ee/punbb/extensions/cd52/gendiag.php?size=29&coord&style=alfa&fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1)  
+**FEN**: `r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1`  
+  
+![Диаграмма5](https://kasparovchess.crestbook.com/krey/cd52/gendiag.php?coord&size=29&style=merida&fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1)  
+**FEN**: `r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1`  
+
+![Диаграмма6](https://kasparovchess.crestbook.com/extensions/chess_diagram/gendiag-jane.php?info&size=29&coord&style=merida&fen=4r3/1b1n2kp/pp1r1q2/2pP1Qp1/P1B1P3/2N3PP/1P2R2K/4R3%20w%20-%20-%200%2032)  
+**FEN**: `4r3/1b1n2kp/pp1r1q2/2pP1Qp1/P1B1P3/2N3PP/1P2R2K/4R3%20w%20-%20-%200%2032`  
+
+![Диаграмма7](https://kasparovchess.crestbook.com/krey/cd52/gendiag-fritz.php?style=merida&coord&info&fen=4r3/1b1n2kp/pp1r1q2/2pP1Qp1/P1B1P3/2N3PP/1P2R2K/4R3%20w%20-%20-%200%2032)  
+**FEN**: `4r3/1b1n2kp/pp1r1q2/2pP1Qp1/P1B1P3/2N3PP/1P2R2K/4R3%20w%20-%20-%200%2032`    
 
 <center>Centered text</center>
 
